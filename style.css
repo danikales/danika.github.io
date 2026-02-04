@@ -1,0 +1,25 @@
+
+.title {
+    padding: 50px;
+    color: green;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+.aboutme {
+    padding: 20px;
+    background-color: darkgreen;
+    border: 5px solid white;
+    border-radius: 25px;
+    color: white;
+    max-width: 600px;
+   
+}
+
+
+#solosis-container {
+    width: 800px;
+    height: 800px;
+    
+}
